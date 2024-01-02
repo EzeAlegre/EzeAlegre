@@ -1,4 +1,4 @@
-![logo](https://github.com/EzeAlegre/EzeAlegre/blob/main/DIEGOALEGRE.png)
+![logo](https://github.com/EzeAlegre/EzeAlegre/blob/main/Perfil.png)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Diego+Alegre👋;Buenos+Aires+Argentina🧉;Welcome+to+my+profile!" alt="Title"></img>
 </div>
