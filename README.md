@@ -5,7 +5,7 @@
 - :credit_card: My full name is **Diego Ezequiel Algre**
 - :school: I've graduated from a IT institute - Instituto Técnico Industrial San Judas Tadeo
   <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif">
-- :books: My major is **Software Engineering**
+- :books: My major is **Android Native Developer**
 - :earth_asia: I'm living now in **Buenos Aires, Argenitna**
 - :sweat_smile: I'm a developer in coding 
 - :monocle_face: I am interested in coding, learning and continuing to grow day by day
