@@ -43,9 +43,12 @@ style="border-radius:15px; box-shadow:0 0 20px #00bfff;"/>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Diego%20Alegre&quote=The%20new%20learnings%20and%20challenges%20from%20the%20past%20made%20you%20who%20you%20are%20today.&theme=dark&bg_color=1f2937&author_color=60a5fa">
+</p>
   
 
 
