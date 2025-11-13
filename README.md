@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/banner-diego.png" alt="Hi, I'm Diego Alegre - a creative developer" width="100%">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1800&pause=900&color=00C0FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=✨+Hi,+my+name+is+Diego+Alegre;🌎+I'm+from+Argentina+🧉" alt="Typing SVG vibrant" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/EzeAlegre/EzeAlegre/blob/main/banner-diego.png?raw=true" 
+       alt="Hi, I'm Diego Alegre - a creative developer" 
+       width="400">
+</p>
 <h2 align="left">💫 About Me</h2>
 
 <div align="center">
