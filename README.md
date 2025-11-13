@@ -49,7 +49,39 @@ style="border-radius:15px; box-shadow:0 0 20px #00bfff;"/>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Diego%20Alegre&quote=The%20new%20learnings%20and%20challenges%20from%20the%20past%20made%20you%20who%20you%20are%20today.&theme=dark&bg_color=1f2937&author_color=60a5fa">
 </p>
-  
 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/diego-alegre-38b20321b" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="mailto:diego.alegre004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="diego.alegre004@gmail.com" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.instagram.com/ezee.alegreee?igsh=YmRvejV1b29zcHph&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+         alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+<h2 align="center">🎉 Thank You for Taking the Time to Read My Profile! 🤣🤣 🎉</h2>
+
+<p align="center">
+  <img src="https://c.tenor.com/1yqJDVfZ1YcAAAAC/typing.gif" alt="Typing Effect" width="200">
+</p>
+
+<p align="center">
+  🌟 Keep exploring, keep learning, and let's code amazing things together! 🌟<br>
+  🚀 Creativity 💡 | Passion ❤️ | Curiosity 🔍
+</p>
+
+<p align="center">
+  💌 Connect with me anytime! 🤝
+</p>
 
 
